@@ -1,4 +1,3 @@
-// import 'package:flutter_login/pages/sign_up.dart';
 import 'package:flutter/material.dart';
 import 'pages/logged_in.dart';
 import 'package:hive_flutter/adapters.dart';
